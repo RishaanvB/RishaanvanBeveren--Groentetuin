@@ -1,6 +1,6 @@
-# RishaanvanBeveren--Groentetuin
+ RishaanvanBeveren--Groentetuin
 
-#Aan de docent die deze gaat nakijken: 
+## Aan de docent die deze gaat nakijken: 
 
 Ik kon mijn antwoord niet veranderen in de cursus zelf, dus doe het hier.
 Ik heb aangegeven in mijn antwoord dat ik de bonusopdrachten niet heb gedaan en dat ik ook ben vergeten om na elke "cyclus" te committen. 
